@@ -7,6 +7,6 @@ pip install -r .\requirements.txt
 ```
 ### Ferramentas:
 <div>
-<img src="venv\assets\imgs\flet.png" width=50>
-<img src="venv\assets\imgs\python.png">
+<img src="imgs\flet.png" width=50>
+<img src="imgs\python.png">
 </div>
